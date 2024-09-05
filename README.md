@@ -13,13 +13,7 @@ To simulate savings accounts, the system periodically applies interest. You can 
 Funds Transfer (Optional)
 Users can transfer money between their own accounts or to other users. Implement validation checks to ensure sufficient balance and valid recipients.
 
-Usage
-Clone the Repository:
-Clone this repository to your local machine using Git or download it as a ZIP file.
-Open a terminal or command prompt and navigate to the project folder.
-Run the Python Script:
-Execute the Python script (banking_system.py or your chosen filename) using the command:
-python banking_system.py
+
 Other than all of these there are many additional feauture also......
 
 
